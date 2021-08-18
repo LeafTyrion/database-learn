@@ -75,7 +75,7 @@
    alter user 'root'@'localhost' identified by '123456';
    ```
 
-8. 开发远程登录权限
+8. 开放远程登录权限
 
    ```mysql
    -- 使用 mysql 数据库
